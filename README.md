@@ -1,6 +1,6 @@
-John 3:16-18
+Deuteronomium 6:4-9 ש
 
-"For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life. For God did not send His Son into the world to condemn the world, but that the world through Him might be saved. He who believes in Him is not condemned; but he who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God."
+"Hoor, Israël: de Here is onze God; de Here is één! Gij zult de Here, uw God, liefhebben met geheel uw hart en met geheel uw ziel en met geheel uw kracht. Wat ik u heden gebied, zal in uw hart zijn, gij zult het uw kinderen inprenten en daarover spreken, wanneer gij in uw huis zit, wanneer gij onderweg zijt, wanneer gij nederligt en wanneer gij opstaat. Gij zult het ook tot een teken op uw hand binden en het zal u een voorhoofdsband tussen uw ogen zijn, en gij zult ze schrijven op de deurposten van uw huis en aan uw poorten."
 
 - 👋 Hi, I’m @opesnoir
 - 🌱 I’m currently learning java, springboot. I just finished learning html/css, javascript and react.
