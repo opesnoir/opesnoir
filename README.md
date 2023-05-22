@@ -6,7 +6,7 @@
  I am learning the following languages and tools: HTML, CSS, JavaScript, React, Java, Spring Boot, PostgreSQL, and PgAdmin.
 
 ![](/Users/mirre/Desktop/68747470733a2f2f736b696c6c63636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c72656163742c6669676d61.svg)
-
+![](/Users/mirre/Downloads/css3-plain-wordmark.svg)
 
 
 
