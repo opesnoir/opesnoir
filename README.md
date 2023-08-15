@@ -1,6 +1,9 @@
 ש
 # **_👋 Hi, ik ben @opesnoir_**
 
+<img src=".idea/src/images/css.svg" alt="SVG Image">
+
+
 Ik heb succesvol de bootcamp aan de [Novi Hogeschool](https://www.novi.nl/full-stack-developer/) afgerond, met als doel front-end of full-stack ontwikkelaar te worden. Mijn eindproject voor de frontend-bootcamp in 2023 was de [Jubilee BibleApp](https://github.com/opesnoir/NOVI-frontend-2023-eindopdracht-mirre-jubileebibleapp), en voor de backend-bootcamp in 2023 heb ik gewerkt aan de [Jubilee BudgetApp](https://github.com/opesnoir/jubilee-budgetapp-final). Tijdens de bootcamp heb ik gewerkt met diverse talen en tools, zoals HTML, CSS, JavaScript, React, Java, Spring Boot, PostgreSQL, PgAdmin, Figma en Lucidchart.
 
 # **_👋 Hi, I'm @opesnoir_**
